@@ -51,7 +51,7 @@ The prediction model is built using XGBoost Regressor with the following feature
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/box-office-revenue-prediction.git
+git clone https://github.com/sanchit-yadav/Box-Office-Revenue-Predictor.git
 cd box-office-revenue-prediction
 ```
 
@@ -117,21 +117,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- Data source: [Add your data source]
-- Inspired by [Add any inspirations]
-- Thanks to [Add any acknowledgments]
-
 ## 📞 Contact
 
-- Your Name
-- Email: your.email@example.com
-- Project Link: https://github.com/yourusername/box-office-revenue-prediction
+- Your Name: Sanchit Yadav
+- Email: ysanchit78@gmail.com
+- Project Link: https://github.com/sanchit-yadav/Box-Office-Revenue-Predictor.git
 
 ---
 ⭐️ Star this repo if you find it useful!
